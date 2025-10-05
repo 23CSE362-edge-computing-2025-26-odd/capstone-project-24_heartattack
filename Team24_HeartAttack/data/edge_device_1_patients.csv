@@ -1,0 +1,6 @@
+patient_id,type,age,height,weight,gender
+P001,general,45,175,70,M
+P002,specific,65,165,80,F
+P003,general,35,180,75,M
+P004,specific,55,170,68,F
+P005,general,28,178,72,M
